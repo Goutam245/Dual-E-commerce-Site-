@@ -6,8 +6,8 @@ export function DisclaimerBanner() {
       <div className="max-w-7xl mx-auto flex items-center justify-center gap-2 text-sm">
         <AlertTriangle className="w-4 h-4 flex-shrink-0" />
         <p className="text-center">
-          <span className="font-semibold">FDA Disclaimer:</span> These statements have not been evaluated by the FDA.
-          Products are for research purposes only.
+          {/* <span className="font-semibold">FDA Disclaimer:</span> These statements have not been evaluated by the FDA.
+          Products are for research purposes only. */}
         </p>
       </div>
     </div>
